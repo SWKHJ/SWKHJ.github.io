@@ -1,0 +1,19 @@
+#profile_list{
+    border-left: 3px dotted green;
+    border-right: 3px double green;
+    width:70%; 
+}
+#site_list{
+    text-align: left;
+    background-color: greenyellow;
+}
+#L_Dl{
+    border: 10px solid green;
+    padding: 5px;
+    width:100%;
+    text-align: center;
+}
+.box{
+    padding: 10px;
+    margin: auto;
+}
